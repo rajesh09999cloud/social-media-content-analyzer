@@ -70,7 +70,7 @@ Beyond the base requirements, the app also analyzes extracted text and returns *
 
 Try it with a PDF export of a post or a screenshot from Instagram, Twitter/X, or LinkedIn.
 
----
+```
 
 ## 🛠 Tech Stack
 
@@ -96,7 +96,7 @@ social-media-content-analyzer/
 ├── .gitignore
 ├── APPROACH.md # Written approach / design rationale
 └── README.md
----
+```
 
 ## 📂 Project Structure
 
